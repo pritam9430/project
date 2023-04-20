@@ -1,0 +1,94 @@
+* {
+    /* background-color: bisque; */
+}
+
+.na {
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: 2px solid black;
+    background-image: url('../image/bg.png');
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+    height: 37.5rem;
+    width: 100%;
+    background-color: black;
+}
+
+#navbarNav {
+    /* background-color: black;
+    margin: 0%; */
+}
+
+.abc {
+    border-radius: 20px;
+    margin: 0%;
+    /* padding: 0%; */
+
+}
+
+@media(max-width: 1028px) {
+    .h11 {
+        margin-top: 35%;
+        padding: 30px 50px;
+        width: 100%;
+        /* align-items: center; */
+        justify-content: center;
+
+    }
+
+    .na {
+        height: 100%;
+        width: 100%;
+    }
+
+    .write {
+        text-align: center;
+        
+    }
+    h1{
+        font-size: 1.5rem;
+    }
+    .batam{
+        /* width: 50%;
+        margin: auto; */
+        /* border: 2px solid black; */
+        text-align: center;
+        justify-content: center;
+    }
+
+}
+
+.h11 {
+    text-align: center;
+    /* border: 2px solid black; */
+    width: 50%;
+    padding: 30px;
+    margin: auto;
+    margin-top: 20px;
+    /* width: 350px;
+    height: 250px; */
+    /* position: absolute; */
+    /* top: 50%;
+    left: 50%; */
+    /* transform: translate(-50%, -50%); */
+
+}
+
+.btme {
+    padding: 50px;
+}
+
+.write {
+    text-align: center;
+    /* font-family: ui-sans-serif,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-family: "Gill Sans Extrabold", sans-serif;
+
+    font-size: 2.5rem;
+    color: aliceblue;
+}
+
+.para {
+    color: aliceblue;
+    font-size: 1.5rem;
+    padding-top:20px ;
+}
