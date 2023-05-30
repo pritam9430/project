@@ -8,6 +8,8 @@
     border: 2px solid black;
     background-image: url('../image/bg.png');
     /* background-size: 100%; */
+    background-size: cover;
+    object-fit: cover;
     background-repeat: no-repeat;
     height: 37.5rem;
     width: 100%;
